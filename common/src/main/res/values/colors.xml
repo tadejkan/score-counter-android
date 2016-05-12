@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="neutral">#616161</color>
+    <color name="winning">#7cb342</color>
+    <color name="losing">#e53935</color>
+    <color name="reset">#263238</color>
+</resources>
