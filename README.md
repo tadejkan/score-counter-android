@@ -19,5 +19,8 @@ Although this project should remain simple, there are several features that coul
 * option to always have the display on, to prevent having to double click, when the watch dims, 
 * option to prevent double points - only useful for sports where you can only get one point at a time, but it would help to prevent accidential double taps.
 
+## Thanks
+All credit for the wonderful icon goes to Sam (@snalty).
+
 ## License
 Available under the [MIT license](LICENSE).
