@@ -9,8 +9,8 @@ android {
         applicationId "si.ncode.scorecounter"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 1000
-        versionName "1.0.0"
+        versionCode 1001
+        versionName "1.0.1"
     }
     buildTypes {
         release {
